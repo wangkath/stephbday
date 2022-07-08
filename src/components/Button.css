@@ -1,0 +1,54 @@
+.button-container {
+    display: inline-block;
+    margin-right: 1%;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: none;
+    font-size: 19px;
+    padding: 5px 10px;
+    background-color: white;
+    color: black;
+    border: 1px #3AAA4C solid;
+    border-radius: 14px;
+    transition: 0.4s;
+}
+
+.buttonPrize {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: none;
+    font-size: 19px;
+    padding: 8px 12px;
+    background-color: white;
+    color: black;
+    border: 1px #C96C93 solid;
+    border-radius: 14px;
+    transition: 0.4s;
+}
+
+
+.button:hover {
+    cursor: pointer;
+    background-color: #3AAA4C;
+    color: white;
+    border: 1px rgb(212, 212, 212) solid;
+    transition: 0.2s;
+}
+
+.buttonPrize:hover {
+    cursor: pointer;
+    background-color: #C96C93;
+    color: white;
+    border: 1px rgb(212, 212, 212) solid;
+    transition: 0.2s;
+}
+
+.arrow {
+    font-size: 23px;
+    padding-left: 3px;
+}
