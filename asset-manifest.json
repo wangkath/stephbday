@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/stephbday/static/css/main.9974ef81.css",
+    "main.css": "/stephbday/static/css/main.dde164b0.css",
     "main.js": "/stephbday/static/js/main.bd4ef52c.js",
     "static/js/787.a902e71f.chunk.js": "/stephbday/static/js/787.a902e71f.chunk.js",
     "static/media/checkbox.png": "/stephbday/static/media/checkbox.52fcce07cb5ee57cffd8.png",
     "static/media/duck.png": "/stephbday/static/media/duck.66c2bb78a22630ecee31.png",
     "index.html": "/stephbday/index.html",
-    "main.9974ef81.css.map": "/stephbday/static/css/main.9974ef81.css.map",
+    "main.dde164b0.css.map": "/stephbday/static/css/main.dde164b0.css.map",
     "main.bd4ef52c.js.map": "/stephbday/static/js/main.bd4ef52c.js.map",
     "787.a902e71f.chunk.js.map": "/stephbday/static/js/787.a902e71f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9974ef81.css",
+    "static/css/main.dde164b0.css",
     "static/js/main.bd4ef52c.js"
   ]
 }
