@@ -1,0 +1,18 @@
+.button-container {
+    display: inline-block;
+    margin-right: 1%;
+}
+
+
+.button:hover {
+    cursor: pointer;
+    background-color: #C96C93;
+    color: white;
+    border: 1px rgb(212, 212, 212) solid;
+    transition: 0.2s;
+}
+
+.arrow {
+    font-size: 23px;
+    padding-left: 3px;
+}
