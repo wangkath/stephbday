@@ -145,27 +145,27 @@ const PageSix = () => {
                 </div>
             </div>
 
-            <p className="question">&nbsp; &nbsp; what has your average response time been in the past month? {"(this is actually accurate, to the second)"}</p>
+            <p className="question">&nbsp; &nbsp; what has your average response time been in the past month? {"(this is actually accurate, to the minute)"}</p>
             <div className="radio" onChange={event => setAnswerFive(event.target.value)}>
                 <div className="radio_group">
                     <input id = "q6-1" type = "radio" value = "1" name="q5"/>
-                    <label for = "q6-1">TO-DO</label>
+                    <label for = "q6-1">4 hours, 33 minutes</label>
                 </div>
                 <div className="radio_group">
                     <input id = "q6-2" type = "radio" value = "2" name="q5"/>
-                    <label for = "q6-2">TO-DO</label>
+                    <label for = "q6-2">3 hours, 28 minutes</label>
                 </div>
                 <div className="radio_group">
                     <input id = "q6-3" type = "radio" value = "3" name="q5"/>
-                    <label for = "q6-3">TO-DO</label>
+                    <label for = "q6-3">6 hours, 9 minutes</label>
                 </div>
                 <div className="radio_group">
                     <input id = "q6-4" type = "radio" value = "4" name="q5"/>
-                    <label for = "q6-4">TO-DO</label>
+                    <label for = "q6-4">5 hours, 57 minutes</label>
                 </div>
                 <div className="radio_group">
                     <input id = "q6-5" type = "radio" value = "5" name="q5"/>
-                    <label for = "q6-5">TO-DO</label>
+                    <label for = "q6-5">8 hours, 43 minutes</label>
                 </div>
             </div>
 

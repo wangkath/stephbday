@@ -11,6 +11,7 @@ import PageEight from "./components/PageEight"
 import PageNine from "./components/PageNine"
 import PageTen from './components/PageTen';
 import FinalPage from './components/FinalPage';
+import CardPage from './components/CardPage';
 
 
 function App() {
@@ -82,6 +83,12 @@ function App() {
             path="/page-final"
             element={
               <FinalPage />
+            }
+          />
+          <Route
+            path="/page-card"
+            element={
+              <CardPage />
             }
           />
         </Routes>
